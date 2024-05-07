@@ -1,0 +1,9 @@
+{
+	"name": "Avianca",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "344ee7ef-b156-4f25-a0e5-de2deb72706f",
+		"tenantId": "c06fb559-1b68-4b84-a14f-47d0d837a5ab"
+	}
+}
