@@ -1,0 +1,9 @@
+{
+	"name": "storageaviancainstance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4bafb2e9-a30b-441a-91fd-9b2b357fa52b",
+		"tenantId": "c06fb559-1b68-4b84-a14f-47d0d837a5ab"
+	}
+}
